@@ -2,7 +2,7 @@
 Jordan Blackwell – Chief Executive Officer (CEO)
 Jordan Blackwell provides strategic leadership and vision for the company, driving growth initiatives and fostering innovation to ensure long-term success.
 
-![Jordan](https://github.com/JPick6-sketch/EncoreTest.github.io/blob/main/linkedin-sales-solutions-pAtA8xe_iVM-unsplash.jpg)
+![Jordan](https://unsplash.com/photos/man-standing-beside-wall-pAtA8xe_iVM)
 
 Email: Jordan.Blackwell@encore.test
 

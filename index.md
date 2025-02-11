@@ -4,11 +4,15 @@ Jordan Blackwell provides strategic leadership and vision for the company, drivi
 
 >Insert Image
 
+Email: Jordan.Blackwell@encore.test
+
 # COO
 Taylor Kensington – Chief Operating Officer (COO)
 Taylor Kensington oversees daily operations, optimizing efficiency across all departments and ensuring seamless execution of the company’s business strategies.
 
 >Insert Image
+
+Email: Taylor.Kensington@encore.test
 
 # CIO
 Avery Caldwell – Chief Information Officer (CIO)
@@ -16,17 +20,23 @@ Avery Caldwell leads the company’s technology strategy, overseeing IT infrastr
 
 >Insert Image
 
+Email: Avery.Caldwell@encore.test
+
 # CFO
 Morgan Thatcher – Chief Financial Officer (CFO)
 Morgan Thatcher is responsible for financial planning, risk management, and overall fiscal health, ensuring sustainable growth and profitability.
 
 >Insert Image
 
+Email: Morgan.Thatcher@encore.test
+
 # CLO
 Cameron Sterling – Chief Legal Officer (CLO)
 Cameron Sterling manages legal and regulatory affairs, providing strategic guidance to mitigate risk and ensure compliance with industry regulations.
 
 >Insert Image
+
+Email: Cameron.Sterling@encore.test
 
 ### Small image
 

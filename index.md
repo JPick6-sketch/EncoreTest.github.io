@@ -1,43 +1,33 @@
----
-layout: default
----
+# Our Leadership at Encore Technologies
+## CEO
+Jordan Blackwell – Chief Executive Officer (CEO)
+Jordan Blackwell provides strategic leadership and vision for the company, driving growth initiatives and fostering innovation to ensure long-term success.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+>Insert Image
 
-[Link to another page](./another-page.html).
+## COO
+Taylor Kensington – Chief Operating Officer (COO)
+Taylor Kensington oversees daily operations, optimizing efficiency across all departments and ensuring seamless execution of the company’s business strategies.
 
-There should be whitespace between paragraphs.
+>Insert Image
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## CIO
+Avery Caldwell – Chief Information Officer (CIO)
+Avery Caldwell leads the company’s technology strategy, overseeing IT infrastructure, cybersecurity, and digital transformation efforts.
 
-# Header 1
+>Insert Image
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## CFO
+Morgan Thatcher – Chief Financial Officer (CFO)
+Morgan Thatcher is responsible for financial planning, risk management, and overall fiscal health, ensuring sustainable growth and profitability.
 
-## Header 2
+>Insert Image
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## CLO
+Cameron Sterling – Chief Legal Officer (CLO)
+Cameron Sterling manages legal and regulatory affairs, providing strategic guidance to mitigate risk and ensure compliance with industry regulations.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
+>Insert Image
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
